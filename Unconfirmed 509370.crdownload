@@ -1,0 +1,7 @@
+//length of a traingle l=12
+//breath of a traingle b=25
+
+l = 12;
+b = 25;
+
+console.log(0.5*l*b)
